@@ -32,6 +32,7 @@
      ,"ImageCharacter" : "..."
      ,"DialogueAUD" : "..."
      ,"DialogueAUDAftherTalking" : "..."
+     ,"MissionComponent" : "BPCH_Missions_Orange_Component"
     ,"DialogueLocked": [
         "NONE"
     ]
