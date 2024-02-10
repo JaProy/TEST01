@@ -26,6 +26,11 @@
         "will tell you a SECRET key...",
         "Find him and bring me that key!"
     ]   
+    ,"DialogueAftherTalking": [
+        "What did he said?",
+        "Are you too lazy to search?",
+        "Lalalala..."
+    ]
      ,"CharNotVisible?" : "False"
      ,"PressToInteract" : "False"
      ,"SendToMission" : "True"
