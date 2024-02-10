@@ -30,13 +30,13 @@
      ,"PressToInteract" : "False"
      ,"SendToMission" : "True"
      ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65da2202&is=65c7ad02&hm=430d29c0c083fdcd9b83a560b767f5be2775b7479bafb2a9f2e41e1ab7319000&"
+    ,"MissionComponent" :"BPCH_Missions_Orange_Component" 
     ,"DialogueAUD": [
         "NONE"
     ]
     ,"DialogueAUDAftherTalking": [
         "NONE"
     ]
-     ,"MissionComponent" : "BPCH_Missions_Orange_Component"
     ,"DialogueLocked": [
         "NONE"
     ]
