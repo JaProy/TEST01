@@ -56,26 +56,27 @@
     ,"DialogueRadius" : "5"
     ,"PredialogueWelcome": [
         "Hi",
-        "Hey",
-        "Hello"
+        "Hey"
     ]
     ,"Predialogue": [
-        "What are you doing here?",
-        "A nice day right?"
+        "Did they send you?",
+        "I think it's you!"
     ]
     ,"PredialogueAftherTalking": [
-        "Why are you still here?",
-        "Do not you have where to go??",
-        "Why don't you better try to have fun...",
-        "Didn't you find purple?"
+        "Very nice day",
+        "You're back!"
     ]  
     ,"Dialogue": [
-        "Hi, I notice you're hanging around here,",
-        "I don't know what you're looking for but I hope you find it...",
-        "...*sighs*....",
-        "why don't you help me find purple?",
-        "will tell you a SECRET key...",
-        "Find him and bring me that key!"
+        "Hi how's everything",
+        "how have you been?",
+        "It seems like they told you...",
+        "well look:",
+        "321",
+        "It's the SECRET KEY",
+        "but don't say anything, okay?",
+        "...",
+        "So have a nice day",
+        "BYE BYE!"
     ]   
     ,"DialogueAftherTalking": [
         "What did he said?",
@@ -91,7 +92,9 @@
         "NONE"
     ]
     ,"DialogueAUDAftherTalking": [
-        "NONE"
+        "If it was the correct key?",
+        "Turns out I'm bad at remembering things...",
+        "Are you perhaps a spy?"
     ]
     ,"DialogueLocked": [
         "NONE"
@@ -106,32 +109,27 @@
     "PredialogueRadius": "0"
     ,"DialogueRadius" : "7"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hey",
-        "Hello"
+        "NONE"
     ]
     ,"Predialogue": [
-        "What are you doing here?",
-        "A nice day right?"
+        "NONE"
     ]
     ,"PredialogueAftherTalking": [
-        "Why are you still here?",
-        "Do not you have where to go??",
-        "Why don't you better try to have fun...",
-        "Didn't you find purple?"
+        "NONE"
     ]  
     ,"Dialogue": [
-        "Hi, I notice you're hanging around here,",
-        "I don't know what you're looking for but I hope you find it...",
-        "...*sighs*....",
-        "why don't you help me find purple?",
-        "will tell you a SECRET key...",
-        "Find him and bring me that key!"
+        "Hello listen...",
+        "...you help me?",
+        "I'm looking for my brother",
+        "older, he's just like me",
+        "only bigger and...",
+        "GOLDEN!!!",
+        "I'll wait for you here with your answer..."
     ]   
     ,"DialogueAftherTalking": [
-        "What did he said?",
-        "Are you too lazy to search?",
-        "Lalalala..."
+        "Didn't you find it?",
+        "He's very good at playing hide and seek haha",
+        "Go!"
     ]
      ,"CharNotVisible?" : "True"
      ,"PressToInteract" : "True"
@@ -157,32 +155,24 @@
     "PredialogueRadius": "0"
     ,"DialogueRadius" : "5"
     ,"PredialogueWelcome": [
-        "Hi",
-        "Hey",
-        "Hello"
+       "NONE"
     ]
     ,"Predialogue": [
-        "What are you doing here?",
-        "A nice day right?"
+        "NONE"
     ]
     ,"PredialogueAftherTalking": [
-        "Why are you still here?",
-        "Do not you have where to go??",
-        "Why don't you better try to have fun...",
-        "Didn't you find purple?"
+        "NONE"
     ]  
     ,"Dialogue": [
-        "Hi, I notice you're hanging around here,",
-        "I don't know what you're looking for but I hope you find it...",
-        "...*sighs*....",
-        "why don't you help me find purple?",
-        "will tell you a SECRET key...",
-        "Find him and bring me that key!"
+        "OH NO!",
+        "You have found me",
+        "What bad luck for me!",
+        "See you next time..."
     ]   
     ,"DialogueAftherTalking": [
-        "What did he said?",
-        "Are you too lazy to search?",
-        "Lalalala..."
+        "lalala",
+        "What's your name?",
+        "I will call you (UNKNOWN)"
     ]
      ,"CharNotVisible?" : "True"
      ,"PressToInteract" : "False"
