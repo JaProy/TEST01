@@ -198,6 +198,55 @@
         "NONE"
     ]
     ,"DialogueLocked": [
+        "hehehe HEY, how are you?",
+        "I hope you are well, hey...",
+        "haven't you found my brother?",
+        "It's like me, it only shines very little haha",
+        "if you find it tell me."
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "Is it me or does everyone here shine less than me?",
+        "I'm the best....",
+        "You do not have cold?",
+        "I freeze :v",
+    ]
+   }
+ ],
+    "CharCODE":[
+   {
+    "PredialogueRadius": "0"
+    ,"DialogueRadius" : "0"
+    ,"PredialogueWelcome": [
+       "NONE"
+    ]
+    ,"Predialogue": [
+        "NONE"
+    ]
+    ,"PredialogueAftherTalking": [
+        "NONE"
+    ]  
+    ,"Dialogue": [
+        "HELLO!",
+        "Welcome to this great game...",
+        "We strive for your entertainment and fun",
+        "so",
+        "HAVE FUN!"
+    ]   
+    ,"DialogueAftherTalking": [
+        "NONE"
+    ]
+     ,"CharNotVisible?" : "True"
+     ,"PressToInteract" : "False"
+     ,"SendToMission" : "False"
+     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"MissionComponent" :"NONE" 
+    ,"DialogueAUD": [
+        "NONE"
+    ]
+    ,"DialogueAUDAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
         "NONE"
     ]
     ,"DialogueAfterTalkingLocked": [
