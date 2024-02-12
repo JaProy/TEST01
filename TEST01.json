@@ -103,8 +103,8 @@
  ],  
   "Cube":[
    {
-    "PredialogueRadius": "12"
-    ,"DialogueRadius" : "5"
+    "PredialogueRadius": "0"
+    ,"DialogueRadius" : "7"
     ,"PredialogueWelcome": [
         "Hi",
         "Hey",
@@ -154,7 +154,7 @@
  ],
    "CubeGold":[
    {
-    "PredialogueRadius": "12"
+    "PredialogueRadius": "0"
     ,"DialogueRadius" : "5"
     ,"PredialogueWelcome": [
         "Hi",
