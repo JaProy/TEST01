@@ -84,8 +84,8 @@
     ]
      ,"CharNotVisible?" : "False"
      ,"PressToInteract" : "False"
-     ,"SendToMission" : "True"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65da2202&is=65c7ad02&hm=430d29c0c083fdcd9b83a560b767f5be2775b7479bafb2a9f2e41e1ab7319000&"
+     ,"SendToMission" : "False"
+     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65da225d&is=65c7ad5d&hm=368073647d122b3405235e5adcb256bf2d5ae7e5ecc2bba89459edf7c1468aaa&"
     ,"MissionComponent" :"BPCH_Missions_Purple_Component" 
     ,"DialogueAUD": [
         "NONE"
