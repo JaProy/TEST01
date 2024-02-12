@@ -97,10 +97,16 @@
         "Are you perhaps a spy?"
     ]
     ,"DialogueLocked": [
-        "NONE"
+        "Hello how are you!",
+        "You're the first person I've seen in months.",
+        "How is the world on your exoplanet?",
+        "Mine is hostile, a place of war...",
+        "It's your turn to tell me"
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
+        "Do you know my friend?",
+        "Do you know about him?",
+        "I'll give you his phone number 555-000-2..."
     ]
    }
  ],  
@@ -143,10 +149,16 @@
         "NONE"
     ]
     ,"DialogueLocked": [
-        "NONE"
+        "It was very calm on my exoplanet",
+        "when suddenly...",
+        "I was teleported here!",
+        "but I don't know about my brother",
+        "..."
     ]
     ,"DialogueAfterTalkingLocked": [
-        "NONE"
+        "What a nice day, don't you think?",
+        "Because you follow me?",
+        "Am I beautiful to you?"
     ]
    }
  ],
