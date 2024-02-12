@@ -100,5 +100,107 @@
         "NONE"
     ]
    }
+ ],  
+  "Cube":[
+   {
+    "PredialogueRadius": "12"
+    ,"DialogueRadius" : "5"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Hey",
+        "Hello"
+    ]
+    ,"Predialogue": [
+        "What are you doing here?",
+        "A nice day right?"
+    ]
+    ,"PredialogueAftherTalking": [
+        "Why are you still here?",
+        "Do not you have where to go??",
+        "Why don't you better try to have fun...",
+        "Didn't you find purple?"
+    ]  
+    ,"Dialogue": [
+        "Hi, I notice you're hanging around here,",
+        "I don't know what you're looking for but I hope you find it...",
+        "...*sighs*....",
+        "why don't you help me find purple?",
+        "will tell you a SECRET key...",
+        "Find him and bring me that key!"
+    ]   
+    ,"DialogueAftherTalking": [
+        "What did he said?",
+        "Are you too lazy to search?",
+        "Lalalala..."
+    ]
+     ,"CharNotVisible?" : "True"
+     ,"PressToInteract" : "True"
+     ,"SendToMission" : "True"
+     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"MissionComponent" :"BPCH_Missions_Cube_Component" 
+    ,"DialogueAUD": [
+        "NONE"
+    ]
+    ,"DialogueAUDAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+   }
+ ],
+   "CubeGold":[
+   {
+    "PredialogueRadius": "12"
+    ,"DialogueRadius" : "5"
+    ,"PredialogueWelcome": [
+        "Hi",
+        "Hey",
+        "Hello"
+    ]
+    ,"Predialogue": [
+        "What are you doing here?",
+        "A nice day right?"
+    ]
+    ,"PredialogueAftherTalking": [
+        "Why are you still here?",
+        "Do not you have where to go??",
+        "Why don't you better try to have fun...",
+        "Didn't you find purple?"
+    ]  
+    ,"Dialogue": [
+        "Hi, I notice you're hanging around here,",
+        "I don't know what you're looking for but I hope you find it...",
+        "...*sighs*....",
+        "why don't you help me find purple?",
+        "will tell you a SECRET key...",
+        "Find him and bring me that key!"
+    ]   
+    ,"DialogueAftherTalking": [
+        "What did he said?",
+        "Are you too lazy to search?",
+        "Lalalala..."
+    ]
+     ,"CharNotVisible?" : "True"
+     ,"PressToInteract" : "False"
+     ,"SendToMission" : "False"
+     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"MissionComponent" :"BPCH_Missions_CubeGold_Component" 
+    ,"DialogueAUD": [
+        "NONE"
+    ]
+    ,"DialogueAUDAftherTalking": [
+        "NONE"
+    ]
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+   }
  ]
 }
