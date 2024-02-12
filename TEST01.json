@@ -235,7 +235,7 @@
      ,"PressToInteract" : "False"
      ,"SendToMission" : "False"
      ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
-    ,"MissionComponent" :"NONE" 
+    ,"MissionComponent" :"BPCH_NotMission" 
     ,"DialogueAUD": [
         "NONE"
     ]
