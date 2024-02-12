@@ -226,11 +226,7 @@
         "NONE"
     ]  
     ,"Dialogue": [
-        "HELLO!",
-        "Welcome to this great game...",
-        "We strive for your entertainment and fun",
-        "so",
-        "HAVE FUN!"
+        "NONE"
     ]   
     ,"DialogueAftherTalking": [
         "NONE"
@@ -247,7 +243,11 @@
         "NONE"
     ]
     ,"DialogueLocked": [
-        "NONE"
+        "HELLO!",
+        "Welcome to this great game...",
+        "We strive for your entertainment and fun",
+        "so",
+        "HAVE FUN!"
     ]
     ,"DialogueAfterTalkingLocked": [
         "NONE"
