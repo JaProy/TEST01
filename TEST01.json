@@ -36,8 +36,14 @@
      ,"SendToMission" : "True"
      ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65da2202&is=65c7ad02&hm=430d29c0c083fdcd9b83a560b767f5be2775b7479bafb2a9f2e41e1ab7319000&"
     ,"MissionComponent" :"BPCH_Missions_Orange_Component" 
+    ,"URLsForDownloadAUD": [
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav"
+    ]
+    ,"URLsSavePathAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav"
+    ]
     ,"DialogueAUD": [
-        "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav"
     ]
     ,"DialogueAUDAftherTalking": [
         "NONE"
