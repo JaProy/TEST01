@@ -42,11 +42,11 @@
     ]
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
     ]
     ,"DialogueAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
     ]
     ,"DialogueAUDAftherTalking": [
         "NONE"
