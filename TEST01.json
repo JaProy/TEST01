@@ -97,6 +97,18 @@
      ,"SendToMission" : "False"
      ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65da225d&is=65c7ad5d&hm=368073647d122b3405235e5adcb256bf2d5ae7e5ecc2bba89459edf7c1468aaa&"
     ,"MissionComponent" :"BPCH_Missions_Purple_Component" 
+    ,"URLsForDownloadAUD": [
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+    ]
+    ,"URLsSavePathAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
+    ,"DialogueAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
     ,"DialogueAUD": [
         "NONE"
     ]
@@ -146,11 +158,23 @@
         "He's very good at playing hide and seek haha",
         "Go!"
     ]
-     ,"CharNotVisible?" : "True"
-     ,"PressToInteract" : "True"
-     ,"SendToMission" : "True"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"CharNotVisible?" : "True"
+    ,"PressToInteract" : "True"
+    ,"SendToMission" : "True"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
     ,"MissionComponent" :"BPCH_Missions_Cube_Component" 
+    ,"URLsForDownloadAUD": [
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+    ]
+    ,"URLsSavePathAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
+    ,"DialogueAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
     ,"DialogueAUD": [
         "NONE"
     ]
@@ -195,11 +219,23 @@
         "What's your name?",
         "I will call you (UNKNOWN)"
     ]
-     ,"CharNotVisible?" : "True"
-     ,"PressToInteract" : "False"
-     ,"SendToMission" : "False"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"CharNotVisible?" : "True"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
     ,"MissionComponent" :"BPCH_Missions_CubeGold_Component" 
+    ,"URLsForDownloadAUD": [
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+    ]
+    ,"URLsSavePathAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
+    ,"DialogueAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
     ,"DialogueAUD": [
         "NONE"
     ]
@@ -240,11 +276,23 @@
     ,"DialogueAftherTalking": [
         "NONE"
     ]
-     ,"CharNotVisible?" : "True"
-     ,"PressToInteract" : "False"
-     ,"SendToMission" : "False"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"CharNotVisible?" : "True"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
     ,"MissionComponent" :"BPCH_NotMission" 
+    ,"URLsForDownloadAUD": [
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
+     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+    ]
+    ,"URLsSavePathAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
+    ,"DialogueAUD": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ]
     ,"DialogueAUD": [
         "NONE"
     ]
