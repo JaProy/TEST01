@@ -52,7 +52,7 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
-    ,"DialogueAUD": [
+    ,"PathDialogueAUD": [
     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
@@ -60,7 +60,7 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
-    ,"DialogueAUDAftherTalking": [
+    ,"PathDialogueAUDAftherTalking": [
         "NONE"
     ]
     ,"DialogueLocked": [
