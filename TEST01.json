@@ -63,6 +63,9 @@
     ,"PathDialogueAUDAftherTalking": [
         "NONE"
     ]
+    ,"PathDialogueAUDLocked": [
+     ""
+    ]
     ,"DialogueLocked": [
         "NONE"
     ]
@@ -110,24 +113,31 @@
      ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65ec975d&is=65da225d&hm=210593e6660299b37685ee927eceaeecf8c57fd2ccd2802241b86489a8c04cb0&"
     ,"MissionComponent" :"BPCH_Missions_Purple_Component" 
     ,"URLsForDownloadAUD": [
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav"
     ]
     ,"URLsSavePathAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
     ]
-    ,"DialogueAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ,"PathDialogueAUD": [
+     "NONE"
     ]
-    ,"DialogueAUD": [
-        "NONE"
+    ,"PathDialogueAUDAftherTalking": [
+     "NONE"
     ]
-    ,"DialogueAUDAftherTalking": [
-        "If it was the correct key?",
-        "Turns out I'm bad at remembering things...",
-        "Are you perhaps a spy?"
+    ,"PathDialogueAUDLocked": [
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
     ]
     ,"DialogueLocked": [
         "Hello how are you!",
@@ -176,22 +186,19 @@
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65ee5941&is=65dbe441&hm=061e16a99d4cf9582a075460076b4c1e7b8da8a6c12e11c13d7b7b65e362981f&"
     ,"MissionComponent" :"BPCH_Missions_Cube_Component" 
     ,"URLsForDownloadAUD": [
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+     "NONE"
     ]
     ,"URLsSavePathAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "NONE"
     ]
-    ,"DialogueAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ,"PathDialogueAUD": [
+     "NONE"
     ]
-    ,"DialogueAUD": [
-        "NONE"
+    ,"PathDialogueAUDAftherTalking": [
+      "NONE"
     ]
-    ,"DialogueAUDAftherTalking": [
-        "NONE"
+    ,"PathDialogueAUDLocked": [
+     "NONE"
     ]
     ,"DialogueLocked": [
         "It was very calm on my exoplanet",
@@ -237,22 +244,19 @@
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65ee5941&is=65dbe441&hm=061e16a99d4cf9582a075460076b4c1e7b8da8a6c12e11c13d7b7b65e362981f&"
     ,"MissionComponent" :"BPCH_Missions_CubeGold_Component" 
     ,"URLsForDownloadAUD": [
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+     "NONE"
     ]
     ,"URLsSavePathAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "NONE"
     ]
-    ,"DialogueAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ,"PathDialogueAUD": [
+     "NONE"
     ]
-    ,"DialogueAUD": [
-        "NONE"
+    ,"PathDialogueAUDAftherTalking": [
+      "NONE"
     ]
-    ,"DialogueAUDAftherTalking": [
-        "NONE"
+    ,"PathDialogueAUDLocked": [
+     "NONE"
     ]
     ,"DialogueLocked": [
         "hehehe HEY, how are you?",
@@ -294,22 +298,19 @@
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
     ,"MissionComponent" :"BPCH_NotMission" 
     ,"URLsForDownloadAUD": [
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+     "NONE"
     ]
     ,"URLsSavePathAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "NONE"
     ]
-    ,"DialogueAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    ,"PathDialogueAUD": [
+     "NONE"
     ]
-    ,"DialogueAUD": [
-        "NONE"
+    ,"PathDialogueAUDAftherTalking": [
+      "NONE"
     ]
-    ,"DialogueAUDAftherTalking": [
-        "NONE"
+    ,"PathDialogueAUDLocked": [
+     "NONE"
     ]
     ,"DialogueLocked": [
         "HELLO!",
