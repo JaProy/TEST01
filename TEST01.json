@@ -39,8 +39,8 @@
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_01.wav",
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_02.wav",
-     "https://github.com/JaProy/TEST01/raw/main/ORANGE_03.wav",
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_SILENCE.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_03.wav",
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_04.wav",
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_05.wav",
      ""
@@ -48,16 +48,16 @@
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_SILENCE.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
     ,"PathDialogueAUD": [
     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_SILENCE.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
