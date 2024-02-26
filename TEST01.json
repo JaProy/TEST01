@@ -37,16 +37,28 @@
      ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65ec9702&is=65da2202&hm=a5d8e6d4cd73355cbc26fdfea4fdedc18d08565c8288848e95b05307dcaccc11&"
     ,"MissionComponent" :"BPCH_Missions_Orange_Component" 
     ,"URLsForDownloadAUD": [
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
-     "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.m4a"
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_SILENCE.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_05.wav"
     ]
     ,"URLsSavePathAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_SILENCE.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
     ,"DialogueAUD": [
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/DL_AUD01_TEST.m4a"
+    "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_SILENCE.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
     ,"DialogueAUDAftherTalking": [
         "NONE"
