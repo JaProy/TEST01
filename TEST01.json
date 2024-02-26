@@ -34,7 +34,7 @@
      ,"CharNotVisible?" : "False"
      ,"PressToInteract" : "False"
      ,"SendToMission" : "True"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65da2202&is=65c7ad02&hm=430d29c0c083fdcd9b83a560b767f5be2775b7479bafb2a9f2e41e1ab7319000&"
+     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65ec9702&is=65da2202&hm=a5d8e6d4cd73355cbc26fdfea4fdedc18d08565c8288848e95b05307dcaccc11&"
     ,"MissionComponent" :"BPCH_Missions_Orange_Component" 
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
@@ -95,7 +95,7 @@
      ,"CharNotVisible?" : "False"
      ,"PressToInteract" : "False"
      ,"SendToMission" : "False"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65da225d&is=65c7ad5d&hm=368073647d122b3405235e5adcb256bf2d5ae7e5ecc2bba89459edf7c1468aaa&"
+     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65ec975d&is=65da225d&hm=210593e6660299b37685ee927eceaeecf8c57fd2ccd2802241b86489a8c04cb0&"
     ,"MissionComponent" :"BPCH_Missions_Purple_Component" 
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
@@ -161,7 +161,7 @@
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "True"
     ,"SendToMission" : "True"
-    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65ee5941&is=65dbe441&hm=061e16a99d4cf9582a075460076b4c1e7b8da8a6c12e11c13d7b7b65e362981f&"
     ,"MissionComponent" :"BPCH_Missions_Cube_Component" 
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
@@ -222,7 +222,7 @@
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
-    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65ee5941&is=65dbe441&hm=061e16a99d4cf9582a075460076b4c1e7b8da8a6c12e11c13d7b7b65e362981f&"
     ,"MissionComponent" :"BPCH_Missions_CubeGold_Component" 
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/DL_AUD01_TEST.wav",
