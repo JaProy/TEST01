@@ -177,7 +177,6 @@
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED04.wav",
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav"
     ]
-    ]
     ,"PathDialogueAUDLocked": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED02.wav",
@@ -304,7 +303,7 @@
         "Is it me or does everyone here shine less than me?",
         "I'm the best....",
         "You do not have cold?",
-        "I freeze :v",
+        "I freeze :v"
     ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "False"
