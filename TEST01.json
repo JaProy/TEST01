@@ -48,7 +48,10 @@
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_SILENCE.wav",
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_03.wav",
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_04.wav",
-     "https://github.com/JaProy/TEST01/raw/main/ORANGE_05.wav"
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_03.wav"
     ]
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
@@ -56,7 +59,10 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_SILENCE.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUD": [
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_01.wav",
@@ -75,10 +81,14 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
     ,"URLDialogueAUDAftherTalking": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_AFTHERTALKING_03.wav"
     ]
     ,"PathDialogueAUDAftherTalking": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUDLocked": [
      "NONE"
@@ -149,14 +159,20 @@
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED02.wav",
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED03.wav",
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED04.wav",
-     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_03.wav"
     ]
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED02.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_03.wav",
     ]
     ,"URLDialogueAUD": [
      "NONE"
@@ -185,10 +201,14 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
     ]
     ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_03.wav"
     ]
    ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_03.wav",
     ]
    }
  ],  
