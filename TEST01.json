@@ -357,10 +357,26 @@
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65ee5941&is=65dbe441&hm=061e16a99d4cf9582a075460076b4c1e7b8da8a6c12e11c13d7b7b65e362981f&"
     ,"MissionComponent" :"BPCH_Missions_CubeGold_Component" 
     ,"URLsForDownloadAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav"
     ]
     ,"URLsSavePathAUD": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav"
     ]
     ,"URLDialogueAUD": [
      "NONE"
@@ -375,16 +391,30 @@
       "NONE"
     ]
     ,"URLDialogueAUDLocked": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_05.wav"
     ]
     ,"PathDialogueAUDLocked": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_05.wav"
     ]
     ,"URLDialogueAUDAfterTalkingLocked": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav"
     ]
     ,"PathDialogueAUDAfterTalkingLocked": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav"
     ]
    }
  ],
