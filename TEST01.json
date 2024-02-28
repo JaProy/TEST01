@@ -570,7 +570,9 @@
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_02.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_03.wav"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_05.wav"
     ]
     ,"URLDialogueAUD": [
      "NONE"
@@ -594,7 +596,9 @@
     ,"PathDialogueAUDLocked": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_02.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_03.wav"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_05.wav"
     ]
     ,"URLDialogueAUDAfterTalkingLocked": [
      "NONE"
