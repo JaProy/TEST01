@@ -58,6 +58,9 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
     ,"PathDialogueAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_02.wav",
@@ -66,10 +69,19 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
+    ,"URLDialogueAUDftherTalking": [
+     "NONE"
+    ]
     ,"PathDialogueAUDAftherTalking": [
      "NONE"
     ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
     ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
      "NONE"
     ]
     ,"PathDialogueAUDAfterTalkingLocked": [
@@ -141,10 +153,19 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
     ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
     ,"PathDialogueAUD": [
      "NONE"
     ]
+    ,"URLDialogueAUDftherTalking": [
+     "NONE"
+    ]
     ,"PathDialogueAUDAftherTalking": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDLocked": [
      "NONE"
     ]
     ,"PathDialogueAUDLocked": [
@@ -153,6 +174,9 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED03.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
+     "NONE"
     ]
    ,"PathDialogueAUDAfterTalkingLocked": [
      "NONE"
@@ -209,13 +233,25 @@
     ,"URLsSavePathAUD": [
      "NONE"
     ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
     ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDftherTalking": [
      "NONE"
     ]
     ,"PathDialogueAUDAftherTalking": [
       "NONE"
     ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
     ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
      "NONE"
     ]
     ,"PathDialogueAUDAfterTalkingLocked": [
@@ -271,13 +307,25 @@
     ,"URLsSavePathAUD": [
      "NONE"
     ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
     ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDftherTalking": [
      "NONE"
     ]
     ,"PathDialogueAUDAftherTalking": [
       "NONE"
     ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
     ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
      "NONE"
     ]
     ,"PathDialogueAUDAfterTalkingLocked": [
@@ -325,13 +373,25 @@
     ,"URLsSavePathAUD": [
      "NONE"
     ]
+    ,"URLDialogueAUD": [
+     "NONE"
+    ]
     ,"PathDialogueAUD": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDftherTalking": [
      "NONE"
     ]
     ,"PathDialogueAUDAftherTalking": [
       "NONE"
     ]
+    ,"URLDialogueAUDLocked": [
+     "NONE"
+    ]
     ,"PathDialogueAUDLocked": [
+     "NONE"
+    ]
+    ,"URLDialogueAUDAfterTalkingLocked": [
      "NONE"
     ]
     ,"PathDialogueAUDAfterTalkingLocked": [
