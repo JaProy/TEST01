@@ -59,7 +59,12 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
     ,"URLDialogueAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_SILENCE.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/ORANGE_05.wav"
     ]
     ,"PathDialogueAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_01.wav",
@@ -166,7 +171,12 @@
      "NONE"
     ]
     ,"URLDialogueAUDLocked": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav"
+    ]
     ]
     ,"PathDialogueAUDLocked": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
