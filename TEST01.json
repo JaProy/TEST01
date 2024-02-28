@@ -31,10 +31,16 @@
         "Are you too lazy to search?",
         "Lalalala..."
     ]
-     ,"CharNotVisible?" : "False"
-     ,"PressToInteract" : "False"
-     ,"SendToMission" : "True"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65ec9702&is=65da2202&hm=a5d8e6d4cd73355cbc26fdfea4fdedc18d08565c8288848e95b05307dcaccc11&"
+    ,"DialogueLocked": [
+        "NONE"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "True"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205922674837291018/SLD01.png?ex=65ec9702&is=65da2202&hm=a5d8e6d4cd73355cbc26fdfea4fdedc18d08565c8288848e95b05307dcaccc11&"
     ,"MissionComponent" :"BPCH_Missions_Orange_Component" 
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/ORANGE_01.wav",
@@ -61,16 +67,13 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharOrange/ORANGE_05.wav"
     ]
     ,"PathDialogueAUDAftherTalking": [
-        "NONE"
+     "NONE"
     ]
     ,"PathDialogueAUDLocked": [
-     ""
+     "NONE"
     ]
-    ,"DialogueLocked": [
-        "NONE"
-    ]
-    ,"DialogueAfterTalkingLocked": [
-        "NONE"
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
     ]
    }
  ],
@@ -107,6 +110,18 @@
         "Are you too lazy to search?",
         "Lalalala..."
     ]
+    ,"DialogueLocked": [
+        "Hello how are you!",
+        "You're the first person I've seen in months.",
+        "How is the world on your exoplanet?",
+        "Mine is hostile, a place of war...",
+        "It's your turn to tell me"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "Do you know my friend?",
+        "Do you know about him?",
+        "I'll give you his phone number 555-000-2..."
+    ]
      ,"CharNotVisible?" : "False"
      ,"PressToInteract" : "False"
      ,"SendToMission" : "False"
@@ -139,17 +154,8 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED04.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED05.wav"
     ]
-    ,"DialogueLocked": [
-        "Hello how are you!",
-        "You're the first person I've seen in months.",
-        "How is the world on your exoplanet?",
-        "Mine is hostile, a place of war...",
-        "It's your turn to tell me"
-    ]
-    ,"DialogueAfterTalkingLocked": [
-        "Do you know my friend?",
-        "Do you know about him?",
-        "I'll give you his phone number 555-000-2..."
+   ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
     ]
    }
  ],  
@@ -180,6 +186,18 @@
         "He's very good at playing hide and seek haha",
         "Go!"
     ]
+    ,"DialogueLocked": [
+        "It was very calm on my exoplanet",
+        "when suddenly...",
+        "I was teleported here!",
+        "but I don't know about my brother",
+        "..."
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "What a nice day, don't you think?",
+        "Because you follow me?",
+        "Am I beautiful to you?"
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "True"
     ,"SendToMission" : "True"
@@ -200,17 +218,8 @@
     ,"PathDialogueAUDLocked": [
      "NONE"
     ]
-    ,"DialogueLocked": [
-        "It was very calm on my exoplanet",
-        "when suddenly...",
-        "I was teleported here!",
-        "but I don't know about my brother",
-        "..."
-    ]
-    ,"DialogueAfterTalkingLocked": [
-        "What a nice day, don't you think?",
-        "Because you follow me?",
-        "Am I beautiful to you?"
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
     ]
    }
  ],
@@ -238,6 +247,19 @@
         "What's your name?",
         "I will call you (UNKNOWN)"
     ]
+    ,"DialogueLocked": [
+        "hehehe HEY, how are you?",
+        "I hope you are well, hey...",
+        "haven't you found my brother?",
+        "It's like me, it only shines very little haha",
+        "if you find it tell me."
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "Is it me or does everyone here shine less than me?",
+        "I'm the best....",
+        "You do not have cold?",
+        "I freeze :v",
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -258,18 +280,8 @@
     ,"PathDialogueAUDLocked": [
      "NONE"
     ]
-    ,"DialogueLocked": [
-        "hehehe HEY, how are you?",
-        "I hope you are well, hey...",
-        "haven't you found my brother?",
-        "It's like me, it only shines very little haha",
-        "if you find it tell me."
-    ]
-    ,"DialogueAfterTalkingLocked": [
-        "Is it me or does everyone here shine less than me?",
-        "I'm the best....",
-        "You do not have cold?",
-        "I freeze :v",
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
     ]
    }
  ],
@@ -292,6 +304,16 @@
     ,"DialogueAftherTalking": [
         "NONE"
     ]
+    ,"DialogueLocked": [
+        "HELLO!",
+        "Welcome to this great game...",
+        "We strive for your entertainment and fun",
+        "so",
+        "HAVE FUN!"
+    ]
+    ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -312,15 +334,8 @@
     ,"PathDialogueAUDLocked": [
      "NONE"
     ]
-    ,"DialogueLocked": [
-        "HELLO!",
-        "Welcome to this great game...",
-        "We strive for your entertainment and fun",
-        "so",
-        "HAVE FUN!"
-    ]
-    ,"DialogueAfterTalkingLocked": [
-        "NONE"
+    ,"PathDialogueAUDAfterTalkingLocked": [
+     "NONE"
     ]
    }
  ]
