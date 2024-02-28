@@ -162,7 +162,19 @@
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED05.wav",
      "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_01.wav",
      "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_02.wav",
-     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_03.wav"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE_AFTHERTALKINGLOCKED_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_06.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_07.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_08.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_09.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-LOCKED01.wav",
@@ -173,18 +185,50 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_02.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE_AFTHERTALKINGLOCKED_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_06.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_07.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_08.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_09.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_06.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_07.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_08.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_09.wav"
     ]
     ,"PathDialogueAUD": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_06.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_07.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_08.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_09.wav"
     ]
     ,"URLDialogueAUDAftherTalking": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/PURPLE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"PathDialogueAUDAftherTalking": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharPurple/PURPLE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUDLocked": [
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED01.wav",
@@ -264,7 +308,17 @@
      "https://github.com/JaProy/TEST01/raw/main/CUBE_DIALOGUELOCKED_05.wav",
      "https://github.com/JaProy/TEST01/raw/main/CUBE_DIALOGUELOCKED_AFTHERTALKING_01.wav",
      "https://github.com/JaProy/TEST01/raw/main/CUBE_DIALOGUELOCKED_AFTHERTALKING_02.wav",
-     "https://github.com/JaProy/TEST01/raw/main/CUBE_DIALOGUELOCKED_AFTHERTALKING_03.wav"
+     "https://github.com/JaProy/TEST01/raw/main/CUBE_DIALOGUELOCKED_AFTHERTALKING_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_06.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_07.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE_DIALOGUELOCKED_01.wav",
@@ -275,18 +329,44 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE_DIALOGUELOCKED_AFTHERTALKING_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE_DIALOGUELOCKED_AFTHERTALKING_02.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE_DIALOGUELOCKED_AFTHERTALKING_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_06.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_07.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_05.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_06.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_07.wav"
     ]
     ,"PathDialogueAUD": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_05.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_06.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_07.wav"
     ]
     ,"URLDialogueAUDAftherTalking": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"PathDialogueAUDAftherTalking": [
-      "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/Cube/CUBE-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUDLocked": [
      "https://github.com/JaProy/TEST01/raw/main/CUBE_DIALOGUELOCKED_01.wav",
@@ -365,7 +445,14 @@
      "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_01.wav",
      "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_02.wav",
      "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_03.wav",
-     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav"
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLsSavePathAUD": [
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_01.wav",
@@ -376,19 +463,36 @@
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_01.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_02.wav",
      "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_03.wav",
-     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD_DIALOGUELOCKED_AFTHERTALKING_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_04.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_04.wav"
     ]
     ,"PathDialogueAUD": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_03.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_04.wav"
     ]
     ,"URLDialogueAUDAftherTalking": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_AFTHERTALKING_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_AFTHERTALKING_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"PathDialogueAUDAftherTalking": [
-      "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_AFTHERTALKING_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_AFTHERTALKING_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CubeGold/CUBEGOLD-DIALOGUE_AFTHERTALKING_03.wav"
     ]
     ,"URLDialogueAUDLocked": [
      "https://github.com/JaProy/TEST01/raw/main/CUBEGOLD_DIALOGUELOCKED_01.wav",
@@ -453,10 +557,16 @@
     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1206406122181763082/kisspng-logo-unreal-engine-4-epic-games-dinos-ipiotis-google-5b74f704035e27.9282703315343920680138.png?ex=65dbe441&is=65c96f41&hm=0e50877931d7957194b0904c9bc064c6c532a7b14374690def2755baf2c7c012&"
     ,"MissionComponent" :"BPCH_NotMission" 
     ,"URLsForDownloadAUD": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_05.wav"
     ]
     ,"URLsSavePathAUD": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_03.wav"
     ]
     ,"URLDialogueAUD": [
      "NONE"
@@ -471,10 +581,16 @@
       "NONE"
     ]
     ,"URLDialogueAUDLocked": [
-     "NONE"
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_01.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_02.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_03.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_04.wav",
+     "https://github.com/JaProy/TEST01/raw/main/CHARCODE-DIALOGUELOCKED_05.wav"
     ]
     ,"PathDialogueAUDLocked": [
-     "NONE"
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_01.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_02.wav",
+     "/Aetherius/Game/DownloadFiles/DialogueSystem/CharCODE/CHARCODE-DIALOGUELOCKED_03.wav"
     ]
     ,"URLDialogueAUDAfterTalkingLocked": [
      "NONE"
