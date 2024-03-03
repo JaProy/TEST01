@@ -39,11 +39,14 @@
     ]
     ,"IDInteract1" : "2"
     ,"DialogueInteract1": [
-        "NONE"
+        "What's happening?",
+        "How uncomfortable",
+        "Why silence?"
     ]
     ,"IDInteract2" : "4"
     ,"DialogueInteract2": [
-        "NONE"
+        "What is that key for?",
+        "To the order!"
     ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
