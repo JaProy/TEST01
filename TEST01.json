@@ -37,6 +37,14 @@
     ,"DialogueAfterTalkingLocked": [
         "NONE"
     ]
+    ,"IDInteract1" : "2"
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "4"
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -148,6 +156,14 @@
         "Do you know my friend?",
         "Do you know about him?",
         "I'll give you his phone number 555-000-2..."
+    ]
+    ,"IDInteract1" : "0"
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"DialogueInteract2": [
+        "NONE"
     ]
      ,"CharNotVisible?" : "False"
      ,"PressToInteract" : "False"
@@ -299,6 +315,14 @@
         "Because you follow me?",
         "Am I beautiful to you?"
     ]
+    ,"IDInteract1" : "0"
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "True"
     ,"SendToMission" : "True"
@@ -435,6 +459,14 @@
         "You do not have cold?",
         "I freeze :v"
     ]
+    ,"IDInteract1" : "0"
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"DialogueInteract2": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -553,6 +585,14 @@
         "HAVE FUN!"
     ]
     ,"DialogueAfterTalkingLocked": [
+        "NONE"
+    ]
+    ,"IDInteract1" : "0"
+    ,"DialogueInteract1": [
+        "NONE"
+    ]
+    ,"IDInteract2" : "0"
+    ,"DialogueInteract2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "True"
