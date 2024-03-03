@@ -38,15 +38,24 @@
         "NONE"
     ]
     ,"IDInteract1" : "2"
-    ,"DialogueInteract1": [
+    ,"ObtionInteract1": [
         "What's happening?",
         "How uncomfortable",
         "Why silence?"
     ]
+    ,"DialogueInteract1": [
+        "I know, but keep listening.",
+        "To the order!",
+        "I was thinking..."
+    ]
     ,"IDInteract2" : "4"
-    ,"DialogueInteract2": [
+    ,"ObtionInteract2": [
         "What is that key for?",
         "To the order!"
+    ]
+    ,"DialogueInteract2": [
+        "For a hidden project",
+        "I like your mood!"
     ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
@@ -161,17 +170,23 @@
         "I'll give you his phone number 555-000-2..."
     ]
     ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
     ,"DialogueInteract1": [
         "NONE"
     ]
     ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
     ,"DialogueInteract2": [
         "NONE"
     ]
-     ,"CharNotVisible?" : "False"
-     ,"PressToInteract" : "False"
-     ,"SendToMission" : "False"
-     ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65ec975d&is=65da225d&hm=210593e6660299b37685ee927eceaeecf8c57fd2ccd2802241b86489a8c04cb0&"
+    ,"CharNotVisible?" : "False"
+    ,"PressToInteract" : "False"
+    ,"SendToMission" : "False"
+    ,"URLImageCharacter" : "https://cdn.discordapp.com/attachments/768678782651203584/1205923054086135898/SDL02.png?ex=65ec975d&is=65da225d&hm=210593e6660299b37685ee927eceaeecf8c57fd2ccd2802241b86489a8c04cb0&"
     ,"MissionComponent" :"BPCH_Missions_Purple_Component" 
     ,"URLsForDownloadAUD": [
      "https://github.com/JaProy/TEST01/raw/main/PURPLE-LOCKED01.wav",
@@ -319,10 +334,16 @@
         "Am I beautiful to you?"
     ]
     ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
     ,"DialogueInteract1": [
         "NONE"
     ]
     ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
     ,"DialogueInteract2": [
         "NONE"
     ]
@@ -463,10 +484,16 @@
         "I freeze :v"
     ]
     ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
     ,"DialogueInteract1": [
         "NONE"
     ]
     ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
     ,"DialogueInteract2": [
         "NONE"
     ]
@@ -591,10 +618,16 @@
         "NONE"
     ]
     ,"IDInteract1" : "0"
+    ,"ObtionInteract1": [
+        "NONE"
+    ]
     ,"DialogueInteract1": [
         "NONE"
     ]
     ,"IDInteract2" : "0"
+    ,"ObtionInteract2": [
+        "NONE"
+    ]
     ,"DialogueInteract2": [
         "NONE"
     ]
