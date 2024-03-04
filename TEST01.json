@@ -183,12 +183,14 @@
         "Do you know about him?",
         "I'll give you his phone number 555-000-2..."
     ]
-    ,"IDInteract1" : "0"
+    ,"IDInteract1" : "6"
     ,"ObtionInteract1": [
-        "NONE"
+        "What happens if I speak?",
+        "But he sent me ORANGE for the code!"
     ]
     ,"DialogueInteract1": [
-        "NONE"
+        "You would prove your sentence!",
+        "But... well, then don't let anyone else know the key"
     ]
     ,"IDInteract2" : "0"
     ,"ObtionInteract2": [
