@@ -57,6 +57,20 @@
         "For a hidden project",
         "I like your mood!"
     ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "True"
@@ -182,6 +196,26 @@
     ]
     ,"DialogueInteract2": [
         "NONE"
+    ]
+    ,"IDInteractBlock1" : "1"
+    ,"ObtionInteractBlock1": [
+        "Have you been so alone?",
+        "But why?",
+        "And how I am?"
+    ]
+    ,"DialogueInteractBlock1": [
+        "Yeah, I haven't seen anyone in 9 weeks",
+        "The exoplanet was abandoned!",
+        "We are being serious please"
+    ]
+    ,"IDInteractBlock2" : "2"
+    ,"ObtionInteractBlock2": [
+        "Were there survivors?",
+        "But why?"
+    ]
+    ,"DialogueInteractBlock2": [
+        "Unfortunately not",
+        "There were many problems between humans and robots, to the point that they took control of the planet"
     ]
     ,"CharNotVisible?" : "False"
     ,"PressToInteract" : "False"
@@ -347,6 +381,20 @@
     ,"DialogueInteract2": [
         "NONE"
     ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "True"
     ,"SendToMission" : "True"
@@ -497,6 +545,20 @@
     ,"DialogueInteract2": [
         "NONE"
     ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
+        "NONE"
+    ]
     ,"CharNotVisible?" : "True"
     ,"PressToInteract" : "False"
     ,"SendToMission" : "False"
@@ -629,6 +691,20 @@
         "NONE"
     ]
     ,"DialogueInteract2": [
+        "NONE"
+    ]
+    ,"IDInteractBlock1" : "0"
+    ,"ObtionInteractBlock1": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock1": [
+        "NONE"
+    ]
+    ,"IDInteractBlock2" : "0"
+    ,"ObtionInteractBlock2": [
+        "NONE"
+    ]
+    ,"DialogueInteractBlock2": [
         "NONE"
     ]
     ,"CharNotVisible?" : "True"
